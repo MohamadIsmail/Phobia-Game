@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phobia", "Phobia\Phobia\Phobia.csproj", "{9FAA87D9-B4C5-459D-BD9B-284092481B26}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PhobiaContent", "Phobia\PhobiaContent\PhobiaContent.contentproj", "{FFD02290-FA99-488B-B1A8-DB154FD8AF76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FAA87D9-B4C5-459D-BD9B-284092481B26}.Debug|x86.ActiveCfg = Debug|x86
+		{9FAA87D9-B4C5-459D-BD9B-284092481B26}.Debug|x86.Build.0 = Debug|x86
+		{9FAA87D9-B4C5-459D-BD9B-284092481B26}.Release|x86.ActiveCfg = Release|x86
+		{9FAA87D9-B4C5-459D-BD9B-284092481B26}.Release|x86.Build.0 = Release|x86
+		{FFD02290-FA99-488B-B1A8-DB154FD8AF76}.Debug|x86.ActiveCfg = Debug|x86
+		{FFD02290-FA99-488B-B1A8-DB154FD8AF76}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

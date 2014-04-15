@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\MonsterA\Die.png</Source>
+      <Name>Sprites\MonsterA\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2013-05-24T19:20:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterA\Run.png</Source>
+      <Name>Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2013-05-14T01:08:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Die.png</Source>
+      <Name>Sprites\MonsterB\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2013-05-19T16:06:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterB\Run.png</Source>
+      <Name>Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2011-02-21T09:55:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Die.png</Source>
+      <Name>Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb</Output>
+      <Time>2013-05-13T23:19:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Idle.png</Source>
+      <Name>Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb</Output>
+      <Time>2013-05-13T23:20:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Jump.png</Source>
+      <Name>Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb</Output>
+      <Time>2013-05-24T20:03:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Run.png</Source>
+      <Name>Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb</Output>
+      <Time>2013-05-13T23:20:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\new_cave.jpg</Source>
+      <Name>Backgrounds\new_cave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb</Output>
+      <Time>2013-04-28T23:08:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Doors\Door.png</Source>
+      <Name>Sprites\Doors\Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb</Output>
+      <Time>2013-05-20T19:12:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Hospital.jpg</Source>
+      <Name>Backgrounds\Hospital</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb</Output>
+      <Time>2013-05-22T18:49:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\the_swamp.jpg</Source>
+      <Name>Backgrounds\the_swamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb</Output>
+      <Time>2013-05-23T21:22:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile3.jpg</Source>
+      <Name>Tiles\Tile3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb</Output>
+      <Time>2013-05-11T17:27:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile4.jpg</Source>
+      <Name>Tiles\Tile4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb</Output>
+      <Time>2013-05-11T17:45:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile5.png</Source>
+      <Name>Tiles\Tile5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb</Output>
+      <Time>2013-05-12T21:09:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile6.png</Source>
+      <Name>Tiles\Tile6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb</Output>
+      <Time>2013-05-12T21:10:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Hit.png</Source>
+      <Name>Sprites\Player\Hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb</Output>
+      <Time>2013-05-15T21:42:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Throw.png</Source>
+      <Name>Sprites\Player\Throw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb</Output>
+      <Time>2013-05-16T22:19:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\JumpHit.png</Source>
+      <Name>Sprites\Player\JumpHit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb</Output>
+      <Time>2013-05-16T22:19:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Knife.png</Source>
+      <Name>Sprites\Items\Knife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb</Output>
+      <Time>2013-05-17T21:39:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\mWPba.jpg</Source>
+      <Name>Backgrounds\mWPba</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb</Output>
+      <Time>2013-05-18T22:44:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Die.png</Source>
+      <Name>Sprites\MonsterC\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2013-05-19T16:12:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterC\Run.png</Source>
+      <Name>Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2013-05-19T15:56:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Boss\Appear.png</Source>
+      <Name>Sprites\Boss\Appear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb</Output>
+      <Time>2013-05-16T14:51:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Boss\Fire.png</Source>
+      <Name>Sprites\Boss\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb</Output>
+      <Time>2013-05-16T14:40:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Fireball.png</Source>
+      <Name>Sprites\Items\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb</Output>
+      <Time>2013-05-21T17:37:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Extra_life.png</Source>
+      <Name>Sprites\Items\Extra_life</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb</Output>
+      <Time>2013-05-21T21:09:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile2.jpg</Source>
+      <Name>Tiles\Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb</Output>
+      <Time>2013-05-23T00:30:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile7.jpg</Source>
+      <Name>Tiles\Tile7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb</Output>
+      <Time>2013-05-22T23:14:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile8.jpg</Source>
+      <Name>Tiles\Tile8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb</Output>
+      <Time>2013-05-22T23:13:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Tile1.jpg</Source>
+      <Name>Tiles\Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb</Output>
+      <Time>2013-05-22T23:13:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\main_menu.jpg</Source>
+      <Name>Backgrounds\main_menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb</Output>
+      <Time>2013-05-23T12:06:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\GameOver.jpg</Source>
+      <Name>Backgrounds\GameOver</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb</Output>
+      <Time>2013-05-23T12:10:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Items\Extra_knife.png</Source>
+      <Name>Sprites\Items\Extra_knife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb</Output>
+      <Time>2013-05-24T19:11:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Win.jpg</Source>
+      <Name>Backgrounds\Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb</Output>
+      <Time>2013-05-25T01:03:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\HallWay.jpg</Source>
+      <Name>Backgrounds\HallWay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb</Output>
+      <Time>2013-05-26T11:26:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Level3.jpg</Source>
+      <Name>Backgrounds\Level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb</Output>
+      <Time>2013-05-26T12:15:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level6.jpg</Source>
+      <Name>Backgrounds\level6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb</Output>
+      <Time>2013-05-26T12:20:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\BasicLevel2.jpg</Source>
+      <Name>Backgrounds\BasicLevel2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb</Output>
+      <Time>2013-05-26T12:36:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\GameOver.spritefont</Source>
+      <Name>Font\GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb</Output>
+      <Time>2013-05-23T12:11:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Gameplay.spritefont</Source>
+      <Name>Font\Gameplay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb</Output>
+      <Time>2013-05-23T12:11:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Intro.spritefont</Source>
+      <Name>Font\Intro</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb</Output>
+      <Time>2013-05-23T12:11:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Mainmenu.spritefont</Source>
+      <Name>Font\Mainmenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb</Output>
+      <Time>2013-05-23T12:11:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Title.spritefont</Source>
+      <Name>Font\Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb</Output>
+      <Time>2013-05-23T12:11:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\winScreen.mp3</Source>
+      <Name>Sounds\winScreen</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma</Extra>
+      <Time>2013-05-19T06:27:55.1069252+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\basicLvl.mp3</Source>
+      <Name>Sounds\basicLvl</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma</Extra>
+      <Time>2013-05-15T22:31:00.8566143+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lvl1.mp3</Source>
+      <Name>Sounds\lvl1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma</Extra>
+      <Time>2013-05-19T01:30:01.458611+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lvl2.mp3</Source>
+      <Name>Sounds\lvl2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma</Extra>
+      <Time>2013-05-26T20:25:12.0515782+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\lvl3.mp3</Source>
+      <Name>Sounds\lvl3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma</Extra>
+      <Time>2013-05-26T20:23:13.7348108+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menu.mp3</Source>
+      <Name>Sounds\menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma</Extra>
+      <Time>2013-05-26T12:51:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Basiclevel2.mp3</Source>
+      <Name>Sounds\Basiclevel2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma</Extra>
+      <Time>2013-05-26T20:11:38.8880679+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BossLevel.mp3</Source>
+      <Name>Sounds\BossLevel</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma</Extra>
+      <Time>2013-05-26T20:40:26.4388781+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Level4.mp3</Source>
+      <Name>Sounds\Level4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma</Extra>
+      <Time>2013-05-26T20:02:35.3069768+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Level5.mp3</Source>
+      <Name>Sounds\Level5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma</Extra>
+      <Time>2013-05-26T19:59:36.1167277+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Level6.mp3</Source>
+      <Name>Sounds\Level6</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma</Extra>
+      <Time>2013-05-19T06:29:49.9164919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Gameover.mp3</Source>
+      <Name>Sounds\Gameover</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb</Output>
+      <Extra>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma</Extra>
+      <Time>2013-05-19T01:32:46.7760666+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MonsterKilled.wav</Source>
+      <Name>Sounds\MonsterKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb</Output>
+      <Time>2013-05-26T12:51:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.wav</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2013-05-26T12:51:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wav</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2013-05-26T12:51:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.wav</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2013-05-26T12:51:10+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{FFD02290-FA99-488B-B1A8-DB154FD8AF76}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Study\Project Phobia\Current Version_sound\Phobia\PhobiaContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-13T07:56:04.0418613+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

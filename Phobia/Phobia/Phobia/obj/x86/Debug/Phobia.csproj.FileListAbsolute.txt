@@ -1,0 +1,1289 @@
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dashwjumpwmove.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zerof.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Down.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile1.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile2.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Background.xnb
+C:\Users\omar\Documents\Visual Studio 2010\Projects\Phobia\Phobia\Phobia\bin\x86\Debug\Content\new_cave.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zerof.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Down.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dashwjumpwmove.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile1.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile2.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Background.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Content\new_cave.xnb
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+G:\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+G:\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+G:\Phobia\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+G:\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zerof.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Down.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dashwjumpwmove.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Background.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\zerof.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Down.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Dashwjumpwmove.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Background.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Abdo_Phobia\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile1.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile2.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Background\new_cave.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Door.xnb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\Downloads\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile1.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile2.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Background\new_cave.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Door.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+D:\Downloads\Temp Projects\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Basic.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Player.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile1.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Tiles\Tile2.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\back.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Background\new_cave.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Celebrate.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Door.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Dash.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\zeroxsheet.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+D:\OOP Project\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\omar\Documents\college\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+G:\phobia\Current Version_2\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterD\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\phobia\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\SasukeDie.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\omar\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\omar\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\omar\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\omar\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\omar\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+G:\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+G:\Current Version\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+G:\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+G:\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\BossTele.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\BossTele.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Basic.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\coppernia_city.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\1.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\2.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\3.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Proj.xnb
+D:\OOP Project\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\dungeon.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\Study\Project Phobia\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\desert_tower.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\dungeon.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\som3a\Downloads\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_no sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+D:\FCIS\Projects\My Projects\OOP\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+E:\FCIS\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+E:\FCIS\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+E:\FCIS\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\Study\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\som3a\Downloads\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+D:\FCIS\Projects\My Projects\OOP\Project Phobia\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Bosslevel.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Bosslevel.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\omar\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\omar\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\omar\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover11.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover11.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Die.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterA\Run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Die.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterB\Run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Die.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Idle.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Jump.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\new_cave.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Doors\Door.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Hospital.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\the_swamp.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile3.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile4.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile5.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Hit.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\Throw.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Player\JumpHit.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Knife.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\mWPba.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Die.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\MonsterC\Run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Appear.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Boss\Fire.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Fireball.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_life.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile2.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile7.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile8.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile1.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\main_menu.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\GameOver.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Items\Extra_knife.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Win.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\HallWay.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\level6.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\BasicLevel2.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Backgrounds\Bosslevel.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\GameOver.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Gameplay.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Intro.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Mainmenu.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Font\Title.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover11.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerFall.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerJump.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Basiclevel2.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\basicLvl.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\BossLevel.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Gameover11.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level4.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level5.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\Level6.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl1.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl2.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\lvl3.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\menu.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sounds\winScreen.wma
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\0.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\1.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\2.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Intro\3.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 2.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 1.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 1.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Jump Level 2.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 3.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Levels\Monster Level 4.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.exe
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Phobia.pdb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.csprojResolveAssemblyReference.cache
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.exe
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\obj\x86\Debug\Phobia.pdb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Ghost\run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Ghost\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Ghost\Die.xnb
+C:\Users\omar\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Sprites\Ghost\Run.xnb
+C:\Users\omar\Phobia complete\Current Version_sound\Phobia\Phobia\bin\x86\Debug\Content\Tiles\Tile6.xnb
